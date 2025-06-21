@@ -67,7 +67,7 @@ Le projet utilise une base contenant les tables :
 ## ✍️ Auteur
 
 Projet réalisé dans le cadre du module NFA019.  
-Développé par [Schentuleit Victor] – 2025
+Développé par Schentuleit Victor
 
 ---
 
